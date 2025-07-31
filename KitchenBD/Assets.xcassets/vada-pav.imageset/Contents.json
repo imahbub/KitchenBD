@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "20240308-VadaPav-SEA-KanikaandJatinSharma-hero-006f8f5a76254feca693a8b4a4bd60c0.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
